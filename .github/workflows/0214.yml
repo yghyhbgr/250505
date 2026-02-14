@@ -1,4 +1,4 @@
-name: Check Microsoft E5 Expiry01
+name: Microsoft E5 
 
 on:
   schedule:
